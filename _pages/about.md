@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
+<!-- About me -->
+<!-- ====== -->
 Hi there! I am a PhD student in Aerospace Engineering at the University of Maryland, College Park, started in 2022 Fall. I am a member of the [Motion and Teaming (Mo-T) Laboratory](http://ottelab.com/) under [Dr. Michael Otte](https://scholar.google.com/citations?user=JbBpeE0AAAAJ&hl=en). My research focuses on integrating of control theory and motion planning algorithms, specifically aimed at enhancing **safe multi-agent path planning**. My research interests span **Dynamics and Control**, **Motion Planning**, **Flight Mechanics**, and **Optimization**, with applications in autonomous systems.
 
 Prior to my PhD, I received a Master's in Mechanical Engineering from King Abdullah University of Science and Technology, Saudi Arabia. Working with [Dr. Eric Feron](https://scholar.google.com/citations?hl=en&user=wKvaIJgAAAAJ&view_op=list_works&sortby=pubdate) in the [Robotics, Intelligent Systems, and
