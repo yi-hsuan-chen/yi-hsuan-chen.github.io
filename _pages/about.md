@@ -20,9 +20,9 @@ Control (RISC) Laboratory](https://cemse.kaust.edu.sa/risclab), I developed a fl
 
 Outside of research, I enjoy running, hiking, traveling, and playing with my dogs :)
 
-![](/images/1.jpg  =150x)
-![](/images/2.jpg  =150x)
-![](/images/2.jpg  =150x)
+![petra](/images/1.jpg  =150x)
+![running](/images/2.jpg  =150x)
+![doggy](/images/2.jpg  =150x)
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 <!-- <img src="1.jpg" alt="drawing" width="150"/>
 <img src="2.jpg" alt="drawing" width="150"/>
