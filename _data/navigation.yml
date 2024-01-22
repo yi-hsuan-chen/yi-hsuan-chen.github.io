@@ -6,10 +6,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Awards"
+    url: /talks/    
 
-  - title: "Teaching"
+  - title: "Courses"
     url: /teaching/    
     
   # - title: "Portfolio"
