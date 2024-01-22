@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I am Yi-Hsuan"
+title: # "Hi! I am Yi-Hsuan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
