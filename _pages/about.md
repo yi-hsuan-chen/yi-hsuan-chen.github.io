@@ -1,5 +1,4 @@
-Home  Algorithmic Foundations of Robotics XV  Conference paper
-PiP-X: Funnel-Based Online Feedback Motion Planning/Replanning in Dynamic Environments---
+---
 permalink: /
 title: "About me" # "Hi! I am Yi-Hsuan"
 excerpt: # "About me"
