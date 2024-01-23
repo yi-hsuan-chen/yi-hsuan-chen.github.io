@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yi-Hsuan Chen"
+title                    : "Yi-Hsuan's:house:"
 title_separator          : "-"
 name                     : &name "Yi-Hsuan Chen"
 description              : &description "PhD student at University of Maryland (UMD)"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "Yi-Hsuan Chen"
+  youtube          : "@yi-hsuanchen6764"
   wikipedia        :
 
 
