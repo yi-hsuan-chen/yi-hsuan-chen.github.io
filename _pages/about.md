@@ -30,9 +30,9 @@ Outside of research, I enjoy running, hiking, traveling, and playing with my dog
 Education
 ======
 * **University of Maryland**, College Park, MD, USA\
-Ph.D. in Aerospace Engineering, &nbsp;*Aug 2022 - Current*\
+Ph.D. in Aerospace Engineering, &nbsp;*Aug 2022 - Current*
 * **King Abdullah University of Science and Technology**, Thuwal, Saudi Arabia\
-M.S. in Mechanical Engineering, &nbsp;*Aug 2020 - May 2022*\
+M.S. in Mechanical Engineering, &nbsp;*Aug 2020 - May 2022*
 * **National Cheng Kung University**, Tainan, Taiwan\
 B.S. in Aeronautics and Astronautics, &nbsp;*Sep 2015 - Jun 2019*
 
