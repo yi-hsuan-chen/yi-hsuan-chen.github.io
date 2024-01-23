@@ -7,7 +7,8 @@ main:
     url: /publications/
 
   - title: "Awards"
-    url: /talks/    
+    url: /award/
+    # url: /cv/    
 
   - title: "Courses"
     url: /teaching/    
@@ -19,7 +20,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/resume.pdf
     
   # - title: "Guide"
     # url: /markdown/
