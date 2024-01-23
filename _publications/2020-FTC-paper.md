@@ -23,4 +23,4 @@ integrated. Simulations illustrate the effectiveness and feasibility of the prop
 
 [[Download paper here]](http://academicpages.github.io/files/applsci-10-03503-v2.pdf)
 
-Recommended citation: Lien, Y. H., Peng, C. C., & **Chen, Y. H.** (2020). Adaptive observer-based fault detection and fault-tolerant control of quadrotors under rotor failure conditions. Applied Sciences, 10(10), 3503.
+<!-- Recommended citation: Lien, Y. H., Peng, C. C., & **Chen, Y. H.** (2020). Adaptive observer-based fault detection and fault-tolerant control of quadrotors under rotor failure conditions. Applied Sciences, 10(10), 3503. -->
