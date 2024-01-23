@@ -3,14 +3,12 @@ layout: archive
 title: "Awards"
 permalink: /award/
 author_profile: true
-# redirect_from:
-#   - /resume
 ---
 
 <!-- {% include base_path %} -->
 
-Awards
-======
+<!-- Awards
+====== -->
 **Gustave J. Hokenson Fellowship**, *2023*\
 • Awarded by the UMD Aerospace Engineering Department\
 **Honorary Member of Phi Tau Phi Scholastic Honor Society**, *2019*\
