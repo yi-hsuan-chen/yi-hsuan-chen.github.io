@@ -7,7 +7,7 @@ author_profile: true
 #   - /resume
 ---
 
-<embed src="https://yi-hsuan-chen.github.io/files/YiHsuan_Resume_2023.pdf" width="100%" height="850px"/>
+<embed src="https://yi-hsuan-chen.github.io/files/YiHsuan_Resume_2023.pdf" width="100%" height="500px"/>
 
 <!-- {% include base_path %} -->
 
