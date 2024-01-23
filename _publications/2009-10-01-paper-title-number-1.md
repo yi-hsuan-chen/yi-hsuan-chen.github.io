@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Adaptive Observer-Based Fault Detection and Fault-Tolerant Control of Quadrotors under Rotor Failure Conditions"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-FTC-paper
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2020-05-19
+venue: 'Applied Science'
+paperurl: 'https://www.mdpi.com/2076-3417/10/10/3503'
+citation: 'Lien, Y. H., Peng, C. C., & **Chen, Y. H. (2020)**. Adaptive observer-based fault detection and fault-tolerant control of quadrotors under rotor failure conditions. Applied Sciences, 10(10), 3503.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[[Paper]](http://academicpages.github.io/files/applsci-10-03503-v2.pdf)
