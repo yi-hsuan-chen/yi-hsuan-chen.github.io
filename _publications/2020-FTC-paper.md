@@ -5,7 +5,7 @@ permalink: /publication/2020-FTC-paper
 excerpt: 'The objective is to design a flight control algorithm for a quadrotor and study further how to recover control in the presence of single rotor loss. The error transformation and reconfiguration techniques combined with sacrificing yaw control are applied to realize fault-tolerant control under actuator failures. The input saturation is not considered in our case.'
 date: 2020-05-19
 venue: 'Applied Science'
-paperurl: 'https://www.mdpi.com/2076-3417/10/10/3503'
+# paperurl: 'https://www.mdpi.com/2076-3417/10/10/3503'
 citation: 'Lien, Y. H., Peng, C. C., & **Chen, Y. H. (2020)**. Adaptive observer-based fault detection and fault-tolerant control of quadrotors under rotor failure conditions. Applied Sciences, 10(10), 3503.'
 ---
 This paper aims to propose a strategy for the flight control of quad-rotors under single
