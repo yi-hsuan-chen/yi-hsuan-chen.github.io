@@ -13,8 +13,8 @@ main:
   - title: "Courses"
     url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Portfolio"
+    url: /talks/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
