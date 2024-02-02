@@ -9,11 +9,7 @@ location: "Thuwal, Saudi Arabia"
 Publication: Chen, Y. H., & Feron, E. (2023). Design of Longitudinal Control for Reduced-Gravity Atmospheric Flights. In AIAA SCITECH 2023 Forum (p. 0218). [[Paper Link]]<br />(https://arc.aiaa.org/doi/epdf/10.2514/6.2023-0218).
 This work aims to develop the flight control algorithm to create a **zero-gravity** environment using **parabolic flight**.
 
-[![Watch the video](https://img.youtube.com/vi/94dRG9IPGZg/default.jpg)](https://youtu.be/94dRG9IPGZg)
-
-<!-- <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/94dRG9IPGZg?si=Cxx_OeaVWXqlvhGl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</p> -->
+[![Watch the video](https://img.youtube.com/vi/94dRG9IPGZg/sddefault.jpg)](https://youtu.be/94dRG9IPGZg)
 
 Advisor: [Dr. Eric Feron](https://scholar.google.com/citations?user=wKvaIJgAAAAJ&hl=en)
 

@@ -8,10 +8,8 @@ date: 2021-05-03
 location: "Thuwal, Saudi Arabia"
 ---
 This work aims to develop a nonlinear model predictive controller to achieve trajectory tracking for a quadrotor subject to input constraints.  
-[![Watch the video](https://img.youtube.com/vi/jzHL5VHJmtA/default.jpg)](https://youtu.be/jzHL5VHJmtA)
-<!-- <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jzHL5VHJmtA?si=bDB3tEk-rl5lJ7pl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</p> -->
+[![Watch the video](https://img.youtube.com/vi/jzHL5VHJmtA/sddefault.jpg)](https://youtu.be/jzHL5VHJmtA)
+
 
 Advisor: [Dr. Meriem Laleg](https://scholar.google.com/citations?user=oyKikokAAAAJ&hl=en) <br />
 
