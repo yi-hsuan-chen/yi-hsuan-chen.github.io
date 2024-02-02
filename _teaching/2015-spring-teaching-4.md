@@ -1,21 +1,17 @@
 ---
-title: "Fault Tolerant Control of a quadrotor under actuator failures"
+title: "Design of Longitudinal Control for Reduced-G Atmospheric Flight"
 collection: teaching
-type: "Undergraduate Research"
+type: "Master Thesis Research"
 venue: "National Cheng Kung Univeristy (NCKU), Intelligent Embedded Control (IEC) Lab, Department of Aeronautics and Astronautics"
-date: 2021-01-15
+date: 2022-01-19
 location: "Tainan, Taiwan"
 ---
 
-Advisor: [Dr. Chao-Chung Peng](https://scholar.google.com/citations?user=YzN8zoUAAAAJ&hl=en)<br />The objective is to design a flight control algorithm for a quadrotor and study further how to recover control in the presence of single rotor loss.
+Advisor: [Dr. Eric Feron](https://scholar.google.com/citations?user=wKvaIJgAAAAJ&hl=en)<br />The objective is to design a flight control algorithm for a quadrotor and study further how to recover control in the presence of single rotor loss.
 <p align="center">
-<iframe width="400" height="200" src="https://www.youtube.com/embed/kR5VIGB4Mvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="200" src="https://youtu.be/94dRG9IPGZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-
-The error transformation and reconfiguration techniques combined with sacrificing yaw control are applied to realize fault-tolerant control under actuator failures. The input saturation is not considered in our case. This project is mainly hosted by Prof. Chao-Chung Peng, the director of Intelligence Embedded Control Laboratory (IEC-Lab) in Department of Aeronautics and Astronautics, National Cheng Kung University, Taiwan. It was also a part of collaboration with the Industrial Technology Research Institute, a technology research and development institute in Taiwan.
-
-<!-- Advisor: [Chao-Chung Peng](https://scholar.google.com/citations?user=YzN8zoUAAAAJ&hl=en) -->
 
 
 ## Related Publication
