@@ -3,12 +3,12 @@ title: "Design of Longitudinal Control for Reduced-G Atmospheric Flight"
 collection: teaching
 type: "Master Thesis Research"
 venue: "KAUST, RISC Lab, Department of Mechanical Engineering"
-date: 2022-01-19
+date: 2023-01-19
 location: "Thuwal, Saudi Arabia"
 ---
 Publication: Chen, Y. H., & Feron, E. (2023). Design of Longitudinal Control for Reduced-Gravity Atmospheric Flights. In AIAA SCITECH 2023 Forum (p. 0218). [[Paper Link]](https://arc.aiaa.org/doi/epdf/10.2514/6.2023-0218).<br />
 
-[![Watch the video](https://img.youtube.com/vi/94dRG9IPGZg/sddefault.jpg)](https://youtu.be/94dRG9IPGZg)
+[![Watch the video](https://img.youtube.com/vi/94dRG9IPGZg/hqdefault.jpg)](https://youtu.be/94dRG9IPGZg)
 
 Advisor: [Dr. Eric Feron](https://scholar.google.com/citations?user=wKvaIJgAAAAJ&hl=en)
 

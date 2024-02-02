@@ -3,7 +3,7 @@ title: "Dual-spin Stabilization of a satellite"
 collection: teaching
 type: "Graduate Course Project"
 venue: "University of Maryland, ENAE646-Advanced Dynamics"
-date: 2023-04-20
+date: 2023-01-10
 location: "College Park, USA"
 ---
 This goal of this project is to analyze the motion of a torque-free rigid body and determine its
