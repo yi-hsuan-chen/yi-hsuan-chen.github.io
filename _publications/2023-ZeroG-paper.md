@@ -1,7 +1,7 @@
 ---
 title: "Design of Longitudinal Control for Reduced-Gravity Atmospheric Flights"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+# permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Parabolic flights are one way to simulate microgravity on Earth, which can be achieved by making aircraft follow specific flight trajectories. This work describes a kinematic and dynamic analysis of general partial gravity cases and develops a flight control framework for a zero-gravity flight using a proof-mass-tracking approach. A triple-integral control structure is adopted to overcome unknown, quadratically increasing drag. Furthermore, to avoid the non-minimum phase characteristics of aircraft longitudinal dynamics, the position deviation from the inertial reference is redefined such that the closed-loop system is minimum phase.'
 date: 2023-01-29
 venue: 'AIAA SCITECH'

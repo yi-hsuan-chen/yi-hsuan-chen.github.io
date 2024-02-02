@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Observer-Based Fault Detection and Fault-Tolerant Control of Quadrotors under Rotor Failure Conditions"
 collection: publications
-permalink: /publication/2020-FTC-paper
+# permalink: /publication/2020-FTC-paper
 excerpt: 'The objective is to design a flight control algorithm for a quadrotor and study further how to recover control in the presence of single rotor loss. The error transformation and reconfiguration techniques combined with sacrificing yaw control are applied to realize fault-tolerant control under actuator failures. The input saturation is not considered in our case.'
 date: 2020-05-19
 venue: 'Applied Science'
