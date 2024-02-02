@@ -2,14 +2,17 @@
 title: "Design of Longitudinal Control for Reduced-G Atmospheric Flight"
 collection: teaching
 type: "Master Thesis Research"
-venue: " KAUST, RISC Lab, Department of Mechanical Engineering"
+venue: "KAUST, RISC Lab, Department of Mechanical Engineering"
 date: 2022-01-19
 location: "Thuwal, Saudi Arabia"
 ---
 
-Advisor: [Dr. Eric Feron](https://scholar.google.com/citations?user=wKvaIJgAAAAJ&hl=en)<br />This work aims to develop the flight control algorithm to create a **zero-gravity** environment using **parabolic flight**. 
+<!-- Advisor: [Dr. Eric Feron](https://scholar.google.com/citations?user=wKvaIJgAAAAJ&hl=en)<br /> -->
+This work aims to develop the flight control algorithm to create a **zero-gravity** environment using **parabolic flight**.
+## Related Publication
+Chen, Y. H., & Feron, E. (2023). Design of Longitudinal Control for Reduced-Gravity Atmospheric Flights. In AIAA SCITECH 2023 Forum (p. 0218). [[Paper Link]](https://arc.aiaa.org/doi/epdf/10.2514/6.2023-0218)
 <p align="center">
-<iframe width="400" height="200" src="https://www.youtube.com/embed/94dRG9IPGZg?si=XLH--_jp-MPSzll3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="200" height="150" src="https://www.youtube.com/embed/94dRG9IPGZg?si=XLH--_jp-MPSzll3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 ## Motivation
@@ -24,9 +27,6 @@ We presented a longitudinal flight control algorithm to direct the aircraft to a
 <p align="center">
 <iframe width="400" height="200" src="https://www.youtube.com/embed/qtZncMjkumw?si=9vuV_KUqBVzk-V3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
-
-## Related Publication
-Chen, Y. H., & Feron, E. (2023). Design of Longitudinal Control for Reduced-Gravity Atmospheric Flights. In AIAA SCITECH 2023 Forum (p. 0218). [[Paper Link]](https://arc.aiaa.org/doi/epdf/10.2514/6.2023-0218)
 
 
 ## References

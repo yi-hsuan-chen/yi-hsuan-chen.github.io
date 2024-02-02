@@ -8,11 +8,13 @@ date: 2021-05-03
 location: "Thuwal, Saudi Arabia"
 ---
 
-Advisor: [Dr. Meriem Laleg](https://scholar.google.com/citations?user=oyKikokAAAAJ&hl=en) <br />This work aims to develop a nonlinear model predictive controller to achieve trajectory tracking for a quadrotor subject to input constraints.  
+
+This work aims to develop a nonlinear model predictive controller to achieve trajectory tracking for a quadrotor subject to input constraints.  
 <p align="center">
 <iframe width="400" height="200" src="https://www.youtube.com/embed/jzHL5VHJmtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+Advisor: [Dr. Meriem Laleg](https://scholar.google.com/citations?user=oyKikokAAAAJ&hl=en) <br />
 
 ## Motivation
 The objective is to find a control strategy that allows the states of a quadrotor to converge to an arbitrary set of time-varying reference states. Though it is possible to control a quadrotor using linear control techniques by linearizing the system around a trim point even if the quadrotor model is coupled and highly nonlinear, nonlinear control methods are preferred to obtain better performance. Multiple nonlinear methods such as sliding mode, backstepping, adaptive and feedback linearization have been demonstrated to be effective for quadrotor control.  
@@ -47,11 +49,3 @@ However, the closed-loop of the quadrotor was not guranteed in every desired tra
 \[3\] K. Worthmann, M. W. Mehrez, M. Zanon, G. K. I. Mann, R. G. Gosine, and M. Diehl. Model predictive control of nonholonomic mobile robots without
 stabilizing constraints and costs. IEEE Transactions on Control Systems Technology, 24(4):1394–1406, 2016. [(link)](10.1109/TCST.2015.2488589)  
 \[4\] MPC and MHE implementation in Matlab using Casadi Workshop hosted by [Mohamed W. Mehrez](https://www.youtube.com/watch?v=RrnkPrcpyEA&t=2s)
-
-<!-- The objective is to design a flight control algorithm for a quadrotor and study further how to recover control in the presence of single rotor loss. The error transformation and reconfiguration techniques combined with sacrificing yaw control are applied to realize fault-tolerant control under actuator failures. The input saturation is not considered in our case. This project is mainly hosted by Prof. Chao-Chung Peng, the director of Intelligence Embedded Control Laboratory (IEC-Lab) in Department of Aeronautics and Astronautics, National Cheng Kung University, Taiwan. It was also a part of collaboration with the Industrial Technology Research Institute, a technology research and development institute in Taiwan.
-
-## Related Publication
-Lien, Y.-H.; Peng, C.-C.; Chen, Y.-H. Adaptive Observer-Based Fault Detection and Fault-Tolerant Control of Quadrotors under Rotor Failure Conditions. Appl. Sci. 2020, 10, 3503. [[Paper Link]](https://doi.org/10.3390/app10103503)
-
-## Conclusion
-From the above video, we can find that the quadrotor is able to track desired trajectory when fault-tolerance control is engaged. The yaw control is sacrificed to maintain the controllability of x, y, and z directions. In this project, I was mainly charge of testing flight simulator, collecting data, and presenting our research results to collaborators every week. -->
