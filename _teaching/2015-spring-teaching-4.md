@@ -12,7 +12,7 @@ This work aims to develop the flight control algorithm to create a **zero-gravit
 ## Related Publication
 Chen, Y. H., & Feron, E. (2023). Design of Longitudinal Control for Reduced-Gravity Atmospheric Flights. In AIAA SCITECH 2023 Forum (p. 0218). [[Paper Link]](https://arc.aiaa.org/doi/epdf/10.2514/6.2023-0218)
 <p align="center">
-<iframe width="200" height="150" src="https://www.youtube.com/embed/94dRG9IPGZg?si=XLH--_jp-MPSzll3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/94dRG9IPGZg?si=Cxx_OeaVWXqlvhGl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 ## Motivation
@@ -25,7 +25,7 @@ We presented a longitudinal flight control algorithm to direct the aircraft to a
 
 ## Simulation Results
 <p align="center">
-<iframe width="400" height="200" src="https://www.youtube.com/embed/qtZncMjkumw?si=9vuV_KUqBVzk-V3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qtZncMjkumw?si=oV8XL6No0W2BcQ5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 

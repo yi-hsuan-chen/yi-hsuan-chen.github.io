@@ -9,7 +9,7 @@ location: "Tainan, Taiwan"
 
 Advisor: [Dr. Chao-Chung Peng](https://scholar.google.com/citations?user=YzN8zoUAAAAJ&hl=en)<br />The objective is to design a flight control algorithm for a quadrotor and study further how to recover control in the presence of single rotor loss.
 <p align="center">
-<iframe width="400" height="200" src="https://www.youtube.com/embed/kR5VIGB4Mvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kR5VIGB4Mvk?si=9DyI4m7teWahkBNx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 
