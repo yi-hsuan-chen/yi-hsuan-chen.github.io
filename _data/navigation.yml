@@ -11,8 +11,8 @@ main:
     url: /award/
     # url: /cv/    
 
-  - title: "Courses"
-    url: /courses/
+  # - title: "Courses"
+  #   url: /courses/
     # url: /teaching/    
     
   # - title: "Portfolio"
