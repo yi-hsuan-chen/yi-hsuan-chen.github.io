@@ -7,18 +7,37 @@ date: 2022-01-19
 location: "Tainan, Taiwan"
 ---
 
-Advisor: [Dr. Eric Feron](https://scholar.google.com/citations?user=wKvaIJgAAAAJ&hl=en)<br />The objective is to design a flight control algorithm for a quadrotor and study further how to recover control in the presence of single rotor loss.
+Advisor: [Dr. Eric Feron](https://scholar.google.com/citations?user=wKvaIJgAAAAJ&hl=en)<br />This work aims to create a **zero-gravity** environment using **parabolic flight**. Our objective is to develop the flight control algorithm for a nonlinear, longitudinal aircraft model to create zero-G environment by following a parabolic flight path.
+
 <p align="center">
 <iframe width="400" height="200" src="https://youtu.be/94dRG9IPGZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+## Motivation
+Reduced-G atmospheric flight has attracted great attention from researchers and engineers around the world over past decades. Microgravity environment has a wide range of potential application, such as astronaut training and scientific research in weightlessness or at partial-g levels. Aircraft parabolic flight is a cost-effective way to create weightless or reduced-g conditions in short duration, serving as a tool to investigate phenomena in the absence of gravity. It is expected that microgravity research will become more and more popular as the interests on space and extra-terrestrial planetary exploration increase.  
 
-
-## Related Publication
-Lien, Y.-H.; Peng, C.-C.; Chen, Y.-H. Adaptive Observer-Based Fault Detection and Fault-Tolerant Control of Quadrotors under Rotor Failure Conditions. Appl. Sci. 2020, 10, 3503. [[Paper Link]](https://doi.org/10.3390/app10103503)
+However, the parabolic maneuvers require higher demand for piloting technique, for example, the [Airbus A310 Zero G](https://www.airzerog.com/) is simultaneously controlled by three members of flight crew, one controls the pitching, the second one controls the rolling to keep the wings level, and the third one is charge of controlling engine thrust and monitoring the flight parameters. Obviously, a well-designed flight control algorithm can improve flight mission safety and efficiency and relieve pilots’ load.
 
 ## Conclusion
-From the above video, we can find that the quadrotor is able to track desired trajectory when fault-tolerance control is engaged. The yaw control is sacrificed to maintain the controllability of x, y, and z directions. In this project, I was mainly charge of testing flight simulator, collecting data, and presenting our research results to collaborators every week.
+We presented a longitudinal flight control algorithm to direct the aircraft to achieve zero-gravity through parabolic flights. The controller designed tried to minimize the error between the cockpit and the proof mass that is in the state of free-fall. We proposed a triple-integral control structure to overcome unknown, quadratically increasing drag. Furthermore, to avoid the non-minimum phase characteristics of aircraft longitudinal dynamics, the position deviation from the inertial reference is redefined such that the closed-loop system is minimum phase
+
+## Simulation Results
+<p align="center">
+<iframe width="400" height="200" src="https://youtu.be/qtZncMjkumw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+## Related Publication
+Chen, Y. H., & Feron, E. (2023). Design of Longitudinal Control for Reduced-Gravity Atmospheric Flights. In AIAA SCITECH 2023 Forum (p. 0218). [[Paper Link]](https://arc.aiaa.org/doi/epdf/10.2514/6.2023-0218)
+
+
+## References
+\[1\] J. Afman, E. Feron and J. Hauser, "Nonlinear Maneuver Regulation for Reduced-G Atmospheric Flight," 2018 IEEE Conference on Decision and Control (CDC), 2018, pp. 731-736, doi: 10.1109/CDC.2018.8618690. [(link)](https://ieeexplore.ieee.org/document/8618690)  
+\[2\] J. Afman, E. Feron and J. Hauser, "Triple-Integral Control for Reduced-G Atmospheric Flight," 2018 Annual American Control Conference (ACC), 2018, pp. 392-397, doi: 10.23919/ACC.2018.8431251. [(link)](https://ieeexplore.ieee.org/document/8431251)  
+\[3\] Hathaway, Jacob D., and Jamey D. Jacob. "Development of a Microgravity Generating Flight Mode for UAS." AIAA Modeling and Simulation Technologies Conference. 2016.[(link)](https://doi.org/10.2514/6.2016-3219)  
+\[4\] Karmali F, Shelhamer M. The dynamics of parabolic flight: flight characteristics and passenger percepts. Acta Astronaut. 2008 Sep;63(5-6):594-602. [(link)](https://doi.org/10.1016/j.actaastro.2008.04.009)  
+\[5\] Higashino, Shin-ichiro, and Shotaro Kozai. "Automatic microgravity flight system and flight testing using a small unmanned aerial vehicle." Journal of The Japan Society of Microgravity Application 27.1 (2010): 3. [(link)](https://doi.org/10.15011/jasma.27.1.3)
+
+
 
 
 
