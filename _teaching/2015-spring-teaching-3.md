@@ -6,8 +6,7 @@ venue: "University of Maryland, ENAE646-Advanced Dynamics"
 date: 2023-04-20
 location: "College Park, USA"
 ---
-
-<br />This goal of this project is to analyze the motion of a torque-free rigid body and determine its
+This goal of this project is to analyze the motion of a torque-free rigid body and determine its
 trajectory in the inertial frame
 <p align="center">
 <iframe width="480" height="270" src="https://www.youtube.com/embed/y8K060h1tH8?si=_d8u0muRXQoGC4_G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

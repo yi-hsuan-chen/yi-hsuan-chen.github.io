@@ -6,7 +6,6 @@ venue: "KAUST, RISC Lab, Department of Mechanical Engineering"
 date: 2022-01-19
 location: "Thuwal, Saudi Arabia"
 ---
-
 This work aims to develop the flight control algorithm to create a **zero-gravity** environment using **parabolic flight**.
 ## Related Publication
 Chen, Y. H., & Feron, E. (2023). Design of Longitudinal Control for Reduced-Gravity Atmospheric Flights. In AIAA SCITECH 2023 Forum (p. 0218). [[Paper Link]](https://arc.aiaa.org/doi/epdf/10.2514/6.2023-0218)
