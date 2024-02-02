@@ -2,15 +2,15 @@
 title: "Design of Longitudinal Control for Reduced-G Atmospheric Flight"
 collection: teaching
 type: "Master Thesis Research"
-venue: "National Cheng Kung Univeristy (NCKU), Intelligent Embedded Control (IEC) Lab, Department of Aeronautics and Astronautics"
+venue: " KAUST, RISC Lab, Department of Mechanical Engineering"
 date: 2022-01-19
-location: "Tainan, Taiwan"
+location: "Thuwal, Saudi Arabia"
 ---
 
 Advisor: [Dr. Eric Feron](https://scholar.google.com/citations?user=wKvaIJgAAAAJ&hl=en)<br />This work aims to create a **zero-gravity** environment using **parabolic flight**. Our objective is to develop the flight control algorithm for a nonlinear, longitudinal aircraft model to create zero-G environment by following a parabolic flight path.
 
 <p align="center">
-<iframe width="400" height="200" src="https://youtu.be/94dRG9IPGZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="200" src="https://www.youtube.com/embed/kR5VIGB4Mvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ## Motivation

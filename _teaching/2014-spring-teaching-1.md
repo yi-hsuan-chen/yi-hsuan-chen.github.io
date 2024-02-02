@@ -1,9 +1,9 @@
 ---
 title: "NMPC-based control for Quadrotor trajectory tracking with constrained inputs"
 collection: teaching
-type: "Graduate Course Projects (EE 372)"
+type: "Graduate Course Project"
 # permalink: /teaching/2014-spring-teaching-1
-venue: "King Abdullah University of Science and Technology (KAUST)"
+venue: "KAUST, EE372-Dynamic Programming and Optimal Control"
 date: 2021-05-03
 location: "Thuwal, Saudi Arabia"
 ---
