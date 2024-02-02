@@ -7,13 +7,14 @@ date: 2022-01-19
 location: "Thuwal, Saudi Arabia"
 ---
 
-<!-- Advisor: [Dr. Eric Feron](https://scholar.google.com/citations?user=wKvaIJgAAAAJ&hl=en)<br /> -->
 This work aims to develop the flight control algorithm to create a **zero-gravity** environment using **parabolic flight**.
 ## Related Publication
 Chen, Y. H., & Feron, E. (2023). Design of Longitudinal Control for Reduced-Gravity Atmospheric Flights. In AIAA SCITECH 2023 Forum (p. 0218). [[Paper Link]](https://arc.aiaa.org/doi/epdf/10.2514/6.2023-0218)
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/94dRG9IPGZg?si=Cxx_OeaVWXqlvhGl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
+
+Advisor: [Dr. Eric Feron](https://scholar.google.com/citations?user=wKvaIJgAAAAJ&hl=en)
 
 ## Motivation
 Reduced-G atmospheric flight has attracted great attention from researchers and engineers around the world over past decades. Microgravity environment has a wide range of potential application, such as astronaut training and scientific research in weightlessness or at partial-g levels. Aircraft parabolic flight is a cost-effective way to create weightless or reduced-g conditions in short duration, serving as a tool to investigate phenomena in the absence of gravity. It is expected that microgravity research will become more and more popular as the interests on space and extra-terrestrial planetary exploration increase.  

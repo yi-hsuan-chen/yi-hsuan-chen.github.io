@@ -7,9 +7,10 @@ date: 2023-04-20
 location: "College Park, USA"
 ---
 
-<!-- Advisor: [Dr. Eric Feron](https://scholar.google.com/citations?user=wKvaIJgAAAAJ&hl=en) -->
-<br />This work aims to develop the flight control algorithm to create a **zero-gravity** environment using **parabolic flight**. 
+<br />This goal of this project is to analyze the motion of a torque-free rigid body and determine its
+trajectory in the inertial frame
 <p align="center">
-<iframe width="200" height="150" src="https://www.youtube.com/embed/94dRG9IPGZg?si=XLH--_jp-MPSzll3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y8K060h1tH8?si=DkJh0K2ob6tfMdGr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
+Advisor: [Dr. Derek Paley](https://scholar.google.com/citations?user=P9QqWAgAAAAJ&hl=en)
