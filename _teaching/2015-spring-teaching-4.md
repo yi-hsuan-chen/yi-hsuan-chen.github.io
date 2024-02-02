@@ -6,8 +6,7 @@ venue: "KAUST, RISC Lab, Department of Mechanical Engineering"
 date: 2022-01-19
 location: "Thuwal, Saudi Arabia"
 ---
-Publication: Chen, Y. H., & Feron, E. (2023). Design of Longitudinal Control for Reduced-Gravity Atmospheric Flights. In AIAA SCITECH 2023 Forum (p. 0218). [[Paper Link]]<br />(https://arc.aiaa.org/doi/epdf/10.2514/6.2023-0218).
-This work aims to develop the flight control algorithm to create a **zero-gravity** environment using **parabolic flight**.
+Publication: Chen, Y. H., & Feron, E. (2023). Design of Longitudinal Control for Reduced-Gravity Atmospheric Flights. In AIAA SCITECH 2023 Forum (p. 0218). [[Paper Link]](https://arc.aiaa.org/doi/epdf/10.2514/6.2023-0218).<br />
 
 [![Watch the video](https://img.youtube.com/vi/94dRG9IPGZg/sddefault.jpg)](https://youtu.be/94dRG9IPGZg)
 
@@ -19,7 +18,7 @@ Reduced-G atmospheric flight has attracted great attention from researchers and 
 However, the parabolic maneuvers require higher demand for piloting technique, for example, the [Airbus A310 Zero G](https://www.airzerog.com/) is simultaneously controlled by three members of flight crew, one controls the pitching, the second one controls the rolling to keep the wings level, and the third one is charge of controlling engine thrust and monitoring the flight parameters. Obviously, a well-designed flight control algorithm can improve flight mission safety and efficiency and relieve pilots’ load.
 
 ## Conclusion
-We presented a longitudinal flight control algorithm to direct the aircraft to achieve zero-gravity through parabolic flights. The controller designed tried to minimize the error between the cockpit and the proof mass that is in the state of free-fall. We proposed a triple-integral control structure to overcome unknown, quadratically increasing drag. Furthermore, to avoid the non-minimum phase characteristics of aircraft longitudinal dynamics, the position deviation from the inertial reference is redefined such that the closed-loop system is minimum phase
+This work aims to develop the flight control algorithm to create a **zero-gravity** environment using **parabolic flight**. We presented a longitudinal flight control algorithm to direct the aircraft to achieve zero-gravity through parabolic flights. The controller designed tried to minimize the error between the cockpit and the proof mass that is in the state of free-fall. We proposed a triple-integral control structure to overcome unknown, quadratically increasing drag. Furthermore, to avoid the non-minimum phase characteristics of aircraft longitudinal dynamics, the position deviation from the inertial reference is redefined such that the closed-loop system is minimum phase
 
 ## Simulation Results
 <p align="center">
