@@ -1,5 +1,5 @@
 ---
-title: "Fault Tolerant Control of a quadrotor under actuator failures"
+title: "Test"
 collection: teaching
 type: "Undergraduate Research"
 # excerpt: "Advisor: [Chao-Chung Peng](https://scholar.google.com/citations?user=YzN8zoUAAAAJ&hl=en)"
