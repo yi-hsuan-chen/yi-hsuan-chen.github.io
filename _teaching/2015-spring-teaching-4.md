@@ -9,7 +9,7 @@ location: "Thuwal, Saudi Arabia"
 
 Advisor: [Dr. Eric Feron](https://scholar.google.com/citations?user=wKvaIJgAAAAJ&hl=en)<br />This work aims to develop the flight control algorithm to create a **zero-gravity** environment using **parabolic flight**. 
 <p align="center">
-<iframe width="400" height="200" src="https://youtu.be/94dRG9IPGZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="200" src="https://www.youtube.com/embed/94dRG9IPGZg?si=XLH--_jp-MPSzll3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 ## Motivation
