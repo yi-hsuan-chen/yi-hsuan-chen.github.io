@@ -5,8 +5,8 @@ Advisor: [Meriem Laleg](https://scholar.google.com/citations?user=oyKikokAAAAJ&h
 <p align="center">
 <iframe width="680" height="400" src="https://www.youtube.com/embed/jzHL5VHJmtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>"
-collection: course
-permalink: /course/2021-05-03-DynamicProgramming
+collection: courses
+permalink: /courses/2021-05-03-DynamicProgramming
 venue: "King Abdullah University of Science and Technology (KAUST)"
 date: 2021-05-03
 location: "Thuwal, Saudi Arabia"
