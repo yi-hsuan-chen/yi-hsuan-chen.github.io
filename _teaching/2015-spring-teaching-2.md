@@ -6,11 +6,11 @@ venue: "National Cheng Kung Univeristy (NCKU), Intelligent Embedded Control (IEC
 date: 2018-01-15
 location: "Tainan, Taiwan"
 ---
-
 The objective is to design a flight control algorithm for a quadrotor and study further how to recover control in the presence of single rotor loss.
-<p align="center">
+[![Watch the video](https://img.youtube.com/vi/kR5VIGB4Mvk/default.jpg)](https://youtu.be/kR5VIGB4Mvk)
+<!-- <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kR5VIGB4Mvk?si=9DyI4m7teWahkBNx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</p>
+</p> -->
 
 Advisor: [Dr. Chao-Chung Peng](https://scholar.google.com/citations?user=YzN8zoUAAAAJ&hl=en)<br />
 
