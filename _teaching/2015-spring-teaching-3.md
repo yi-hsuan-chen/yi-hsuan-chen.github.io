@@ -1,30 +1,36 @@
 ---
-title: "Test"
+title: "Design of Longitudinal Control for Reduced-G Atmospheric Flight"
 collection: teaching
-type: "Undergraduate Research"
-# excerpt: "Advisor: [Chao-Chung Peng](https://scholar.google.com/citations?user=YzN8zoUAAAAJ&hl=en)"
-# permalink: /teaching/2015-spring-teaching-1
-venue: "National Cheng Kung Univeristy (NCKU), Intelligent Embedded Control (IEC) Lab, Department of Aeronautics and Astronautics"
-date: 2018-01-15
+type: "Master Thesis"
+venue: ""King Abdullah University of Science and Technology (KAUST)", Robotics, Intelligent Systems, and Control (RISC) Lab, Department of Mechanical Engineering"
+date: 2022-01-19
 location: "Tainan, Taiwan"
 ---
-Advisor: [Dr. Chao-Chung Peng](https://scholar.google.com/citations?user=YzN8zoUAAAAJ&hl=en)<br />The objective is to design a flight control algorithm for a quadrotor and study further how to recover control in the presence of single rotor loss.
+Advisor: [Eric Feron](https://cemse.kaust.edu.sa/ece/people/person/eric-feron)
 <p align="center">
-<iframe width="400" height="200" src="https://www.youtube.com/embed/kR5VIGB4Mvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="200" src="https://youtu.be/94dRG9IPGZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+## Motivation
+Reduced-G atmospheric flight has attracted great attention from researchers and engineers around the world over past decades. Microgravity environment has a wide range of potential application, such as astronaut training and scientific research in weightlessness or at partial-g levels. Aircraft parabolic flight is a cost-effective way to create weightless or reduced-g conditions in short duration, serving as a tool to investigate phenomena in the absence of gravity. It is expected that microgravity research will become more and more popular as the interests on space and extra-terrestrial planetary exploration increase.  
 
-The error transformation and reconfiguration techniques combined with sacrificing yaw control are applied to realize fault-tolerant control under actuator failures. The input saturation is not considered in our case. This project is mainly hosted by Prof. Chao-Chung Peng, the director of Intelligence Embedded Control Laboratory (IEC-Lab) in Department of Aeronautics and Astronautics, National Cheng Kung University, Taiwan. It was also a part of collaboration with the Industrial Technology Research Institute, a technology research and development institute in Taiwan.
+However, the parabolic maneuvers require higher demand for piloting technique, for example, the [Airbus A310 Zero G](https://www.airzerog.com/) is simultaneously controlled by three members of flight crew, one controls the pitching, the second one controls the rolling to keep the wings level, and the third one is charge of controlling engine thrust and monitoring the flight parameters. Obviously, a well-designed flight control algorithm can improve flight mission safety and efficiency and relieve pilots’ load.
 
-<!-- Advisor: [Chao-Chung Peng](https://scholar.google.com/citations?user=YzN8zoUAAAAJ&hl=en) -->
+<!-- ## Current Progress
+We present a longitudinal flight control algorithm to direct the aircraft to achieve microgravity through parabolic flights. The controller designed makes an aircraft follow the desired aerodynamic velocity and flight path angle generated from projectile motion. As an aircraft flies along the parabolic flight path, it will be in a free-fall stage, thus causing the sensation of weightlessness. A novel method is proposed for rejecting unknown and quadratically increasing (in time) aerodynamic drag using tripe-integral control based on internal model principle (IMP). The LQR-based controller is used to track flight path angle during parabolic flight. -->
 
+## Simulation Results
+<p align="center">
+<iframe width="400" height="200" src="https://youtu.be/qtZncMjkumw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <img src="https://raw.githubusercontent.com/yi-hsuan-chen/yi-hsuan-chen.github.io/master/ParabolicDemo.png" width="600">   -->
+</p>
 
-## Related Publication
-Lien, Y.-H.; Peng, C.-C.; Chen, Y.-H. Adaptive Observer-Based Fault Detection and Fault-Tolerant Control of Quadrotors under Rotor Failure Conditions. Appl. Sci. 2020, 10, 3503. [[Paper Link]](https://doi.org/10.3390/app10103503)
-
-## Conclusion
-From the above video, we can find that the quadrotor is able to track desired trajectory when fault-tolerance control is engaged. The yaw control is sacrificed to maintain the controllability of x, y, and z directions. In this project, I was mainly charge of testing flight simulator, collecting data, and presenting our research results to collaborators every week.
-
+## References
+\[1\] J. Afman, E. Feron and J. Hauser, "Nonlinear Maneuver Regulation for Reduced-G Atmospheric Flight," 2018 IEEE Conference on Decision and Control (CDC), 2018, pp. 731-736, doi: 10.1109/CDC.2018.8618690. [(link)](https://ieeexplore.ieee.org/document/8618690)  
+\[2\] J. Afman, E. Feron and J. Hauser, "Triple-Integral Control for Reduced-G Atmospheric Flight," 2018 Annual American Control Conference (ACC), 2018, pp. 392-397, doi: 10.23919/ACC.2018.8431251. [(link)](https://ieeexplore.ieee.org/document/8431251)  
+\[3\] Hathaway, Jacob D., and Jamey D. Jacob. "Development of a Microgravity Generating Flight Mode for UAS." AIAA Modeling and Simulation Technologies Conference. 2016.[(link)](https://doi.org/10.2514/6.2016-3219)  
+\[4\] Karmali F, Shelhamer M. The dynamics of parabolic flight: flight characteristics and passenger percepts. Acta Astronaut. 2008 Sep;63(5-6):594-602. [(link)](https://doi.org/10.1016/j.actaastro.2008.04.009)  
+\[5\] Higashino, Shin-ichiro, and Shotaro Kozai. "Automatic microgravity flight system and flight testing using a small unmanned aerial vehicle." Journal of The Japan Society of Microgravity Application 27.1 (2010): 3. [(link)](https://doi.org/10.15011/jasma.27.1.3)
 
 
 <!-- ---

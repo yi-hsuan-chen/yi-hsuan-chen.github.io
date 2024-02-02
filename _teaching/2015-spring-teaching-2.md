@@ -2,12 +2,11 @@
 title: "Fault Tolerant Control of a quadrotor under actuator failures"
 collection: teaching
 type: "Undergraduate Research"
-# excerpt: "Advisor: [Chao-Chung Peng](https://scholar.google.com/citations?user=YzN8zoUAAAAJ&hl=en)"
-# permalink: /teaching/2015-spring-teaching-1
 venue: "National Cheng Kung Univeristy (NCKU), Intelligent Embedded Control (IEC) Lab, Department of Aeronautics and Astronautics"
 date: 2018-01-15
 location: "Tainan, Taiwan"
 ---
+
 Advisor: [Dr. Chao-Chung Peng](https://scholar.google.com/citations?user=YzN8zoUAAAAJ&hl=en)<br />The objective is to design a flight control algorithm for a quadrotor and study further how to recover control in the presence of single rotor loss.
 <p align="center">
 <iframe width="400" height="200" src="https://www.youtube.com/embed/kR5VIGB4Mvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
