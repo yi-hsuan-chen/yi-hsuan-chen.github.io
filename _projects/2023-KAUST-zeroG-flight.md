@@ -2,6 +2,7 @@
 title: "Design of Longitudinal Control for Reduced-G Atmospheric Flight"
 collection: projects
 type: "Master Thesis Research"
+permalink: /projects/2023-KAUST-zeorG-flight
 venue: "KAUST, RISC Lab, Department of Mechanical Engineering"
 date: 2023-01-19
 location: "Thuwal, Saudi Arabia"

@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Projects"
-    url: /project/
+    url: /projects/
     # url: /teaching/
     # url: /talks/
 
@@ -12,9 +12,9 @@ main:
     url: /award/
     # url: /cv/    
 
-  # - title: "Courses"
-  #   url: /courses/
-    # url: /teaching/    
+  - title: "Courses"
+    # url: /courses/
+    url: /teaching/    
     
   # - title: "Portfolio"
     # url: /portfolio/
