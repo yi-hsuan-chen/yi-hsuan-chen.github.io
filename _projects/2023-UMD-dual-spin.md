@@ -8,8 +8,7 @@ location: "College Park, USA"
 ---
 This goal of this project is to analyze the motion of a torque-free rigid body and determine its
 trajectory in the inertial frame.
-
-[![Watch the video](https://img.youtube.com/vi/y8K060h1tH8/sddefault.jpg)](https://youtu.be/y8K060h1tH8)
+![](http://yi-hsuan-chen.github.io/files/dual_spin.gif)
 
 Advisor: [Dr. Derek Paley](https://scholar.google.com/citations?user=P9QqWAgAAAAJ&hl=en)
 
@@ -18,8 +17,13 @@ According to the intermediate axis theorem aka tennis racket theorem, rotation o
 
 ## Methodology
 Dual-spin stabilization is a method of stabilizing a spacecraft’s orientation in space by adding a rotor/flywheel inside of the spacecraft. Our goal is to achieve stable spinning of the spacecraft around an intermediate axis by introducing a flywheel spinning at the proper speed.
- 
 [[Download Technical Report here]](http://yi-hsuan-chen.github.io/files/ENAE646_YiHsuan_Final_Project)
+
+## Simulation Results
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y8K060h1tH8?si=t27oYu27vpAm29E1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
 
 ## References
 \[1\] Kasdin, N. Jeremy and Paley, Derek A.. Engineering Dynamics: A Comprehensive Introduction, Princeton: Princeton University Press, 2011.  [(link)](https://doi.org/10.1515/9781400839070)  
