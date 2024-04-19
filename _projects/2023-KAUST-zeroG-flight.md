@@ -6,7 +6,7 @@ venue: "KAUST, RISC Lab, Department of Mechanical Engineering"
 date: 2023-01-19
 location: "Thuwal, Saudi Arabia"
 ---
-This work proposed a triple-integral flight control framework for a zero-gravity flight using a proof-mass-tracking approach. A triple-integral control strategy is adopted to overcome unknown, quadratically increasing drag. Furthermore, to avoid the non-minimum phase characteristics of aircraft longitudinal dynamics (see below), the position deviation from the inertial reference is redefined such that the closed-loop system is minimum phase. <br /> ![](http://yi-hsuan-chen.github.io/files/zerog_flight_fg.gif) 
+This work proposed a triple-integral flight control framework for a zero-gravity flight using a proof-mass-tracking approach. A triple-integral control strategy is adopted to overcome unknown, quadratically increasing drag. Furthermore, to avoid the non-minimum phase characteristics of aircraft longitudinal dynamics (see below), the position deviation from the inertial reference is redefined such that the closed-loop system is minimum phase. <br /><br /> ![](http://yi-hsuan-chen.github.io/files/zerog_flight_fg.gif) 
 
 <!-- [![Watch the video](https://img.youtube.com/vi/94dRG9IPGZg/sddefault.jpg)](https://youtu.be/94dRG9IPGZg) -->
 

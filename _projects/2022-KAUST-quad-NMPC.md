@@ -8,11 +8,9 @@ date: 2021-05-03
 location: "Thuwal, Saudi Arabia"
 ---
 
-This work aims to develop a nonlinear model predictive controller to achieve trajectory tracking for a quadrotor subject to input constraints. <br /> ![](http://yi-hsuan-chen.github.io/files/nmpc_drone.gif) 
+This work aims to develop a nonlinear model predictive controller to achieve trajectory tracking for a quadrotor subject to input constraints. <br /><br /> ![](http://yi-hsuan-chen.github.io/files/nmpc_drone.gif) 
 
-<!-- [![Watch the video](https://img.youtube.com/vi/jzHL5VHJmtA/sddefault.jpg)](https://youtu.be/jzHL5VHJmtA) -->
-
-Advisor: [Dr. Meriem Laleg](https://scholar.google.com/citations?user=oyKikokAAAAJ&hl=en) <br />
+Advisor: [Dr. Meriem Laleg](https://scholar.google.com/citations?user=oyKikokAAAAJ&hl=en) <br /> <br />
 
 ## Motivation
 The objective is to find a control strategy that allows the states of a quadrotor to converge to an arbitrary set of time-varying reference states. Though it is possible to control a quadrotor using linear control techniques by linearizing the system around a trim point even if the quadrotor model is coupled and highly nonlinear, nonlinear control methods are preferred to obtain better performance. Multiple nonlinear methods such as sliding mode, backstepping, adaptive and feedback linearization have been demonstrated to be effective for quadrotor control.  
@@ -30,7 +28,7 @@ were performed to show the NMPC address the control problem in high performance.
 ## Simulation Results
 The figure shows that NMPC has the ability to stabilize the quadrotor on the desired trajectory, and to keep the control inputs in the operation range over a whole time interval simultaneously. In other words, the nonlinear MPC can achieve satisfactory performance and handle constraints, which would be more practicable compared to conventional control methods.  
 <p align="center">
-<img src="https://raw.githubusercontent.com/yi-hsuan-chen/yi-hsuan-chen.github.io/master/fig/helix_u.png" width="510">
+<img src="http://yi-hsuan-chen.github.io/files/helix_u.png" width="510">
 </p>
 
 However, the closed-loop of the quadrotor was not guranteed in every desired trajectories. The stability issue involves the initial condition, selection of terminal constraints and length of prediction horizon. Therefore, more systematic stability analysis should be furthered investigated to improve reliability.
