@@ -1,6 +1,7 @@
 ---
 title: "Design of Longitudinal Control for Reduced-G Atmospheric Flight"
 collection: projects
+excerpt: 'Parabolic flights are one way to simulate microgravity on Earth, which can be achieved by making aircraft follow specific flight trajectories. This work proposed a triple-integral flight control framework for a zero-gravity flight using a proof-mass-tracking approach. A triple-integral control strategy is adopted to overcome unknown, quadratically increasing drag. Furthermore, to avoid the non-minimum phase characteristics of aircraft longitudinal dynamics, the position deviation from the inertial reference is redefined such that the closed-loop system is minimum phase.'
 type: "Master Thesis Research"
 venue: "KAUST, RISC Lab, Department of Mechanical Engineering"
 date: 2023-01-19
