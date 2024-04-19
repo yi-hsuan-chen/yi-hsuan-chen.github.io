@@ -16,7 +16,7 @@ Quadrotors have been widely used in many fields, such as agriculture, cargo deli
 ## Methodology
 In the study, we aim to design a flight controller to stabilize a drone when one of its rotor fails. During the loss of a single rotor, the applied torque can no longer achieve ordinary orientation control. This specific scenario could be regarded as a reduced attitude stabilization problem. Since there is no control effort imposed on the yaw dynamics,
 there would be an unexpected yaw motion such that incorrect control torque vector may be induced. Thus, the flight controller in this paper consists of two parts — a coordinate transformation based outer-loop controller and an inner-loop stabilization controller. Note that the yaw angle obtained from measurement must be applied as a coordinate transformation to get the desired angles such that the torque can be correctly re-distributed when one rotor fails. The more details can be found in the related publication below.
-<img src="" width="560" height="210" />
+<br /> ![](http://yi-hsuan-chen.github.io/files/ftc.jpg)
 
 ## Related Publication
 Lien, Y.-H.; Peng, C.-C.; Chen, Y.-H. Adaptive Observer-Based Fault Detection and Fault-Tolerant Control of Quadrotors under Rotor Failure Conditions. Appl. Sci. 2020, 10, 3503. [[Paper Link]](http://yi-hsuan-chen.github.io/files/ftc.jpg)

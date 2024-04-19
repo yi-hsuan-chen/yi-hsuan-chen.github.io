@@ -20,6 +20,7 @@ However, the parabolic maneuvers require higher demand for piloting technique, f
 
 ## Methodology
 A triple-integral control structure is adopted to overcome unknown, quadratically increasing drag. Furthermore, to avoid the non-minimum phase characteristics of aircraft longitudinal dynamics (see below), the position deviation from the inertial reference is redefined such that the closed-loop system is minimum phase. Flight simulations are demonstrated to validate the proposed control strategy and are visualized in the open-source flight simulator FlightGear.
+
 <br /> ![](http://yi-hsuan-chen.github.io/files/nmp_aircraft.gif) 
 
 ## Conclusion
