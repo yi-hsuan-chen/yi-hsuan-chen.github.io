@@ -6,9 +6,9 @@ venue: "KAUST, RISC Lab, Department of Mechanical Engineering"
 date: 2023-01-19
 location: "Thuwal, Saudi Arabia"
 ---
-This work proposed a triple-integral flight control framework for a zero-gravity flight using a proof-mass-tracking approach. A triple-integral control strategy is adopted to overcome unknown, quadratically increasing drag. Furthermore, to avoid the non-minimum phase characteristics of aircraft longitudinal dynamics, the position deviation from the inertial reference is redefined such that the closed-loop system is minimum phase.
+This work proposed a triple-integral flight control framework for a zero-gravity flight using a proof-mass-tracking approach. A triple-integral control strategy is adopted to overcome unknown, quadratically increasing drag. Furthermore, to avoid the non-minimum phase characteristics of aircraft longitudinal dynamics (see below), the position deviation from the inertial reference is redefined such that the closed-loop system is minimum phase. <br /> ![](http://yi-hsuan-chen.github.io/files/zerog_flight_fg.gif) 
 
-[![Watch the video](https://img.youtube.com/vi/94dRG9IPGZg/sddefault.jpg)](https://youtu.be/94dRG9IPGZg)
+<!-- [![Watch the video](https://img.youtube.com/vi/94dRG9IPGZg/sddefault.jpg)](https://youtu.be/94dRG9IPGZg) -->
 
 Publication: Chen, Y. H., & Feron, E. (2023). Design of Longitudinal Control for Reduced-Gravity Atmospheric Flights. In AIAA SCITECH 2023 Forum (p. 0218). [[Paper Link]](https://arc.aiaa.org/doi/epdf/10.2514/6.2023-0218).<br />
 Advisor: [Dr. Eric Feron](https://scholar.google.com/citations?user=wKvaIJgAAAAJ&hl=en)
@@ -17,6 +17,10 @@ Advisor: [Dr. Eric Feron](https://scholar.google.com/citations?user=wKvaIJgAAAAJ
 Reduced-G atmospheric flight has attracted great attention from researchers and engineers around the world over past decades. Microgravity environment has a wide range of potential application, such as astronaut training and scientific research in weightlessness or at partial-g levels. Aircraft parabolic flight is a cost-effective way to create weightless or reduced-g conditions in short duration, serving as a tool to investigate phenomena in the absence of gravity. It is expected that microgravity research will become more and more popular as the interests on space and extra-terrestrial planetary exploration increase.  
 
 However, the parabolic maneuvers require higher demand for piloting technique, for example, the [Airbus A310 Zero G](https://www.airzerog.com/) is simultaneously controlled by three members of flight crew, one controls the pitching, the second one controls the rolling to keep the wings level, and the third one is charge of controlling engine thrust and monitoring the flight parameters. Obviously, a well-designed flight control algorithm can improve flight mission safety and efficiency and relieve pilots’ load.
+
+## Methodology
+A triple-integral control structure is adopted to overcome unknown, quadratically increasing drag. Furthermore, to avoid the non-minimum phase characteristics of aircraft longitudinal dynamics (see below), the position deviation from the inertial reference is redefined such that the closed-loop system is minimum phase. Flight simulations are demonstrated to validate the proposed control strategy and are visualized in the open-source flight simulator FlightGear.
+<br /> ![](http://yi-hsuan-chen.github.io/files/nmp_aircraft.gif) 
 
 ## Conclusion
 This work aims to develop the flight control algorithm to create a **zero-gravity** environment using **parabolic flight**. We presented a longitudinal flight control algorithm to direct the aircraft to achieve zero-gravity through parabolic flights. The controller designed tried to minimize the error between the cockpit and the proof mass that is in the state of free-fall. We proposed a triple-integral control structure to overcome unknown, quadratically increasing drag. Furthermore, to avoid the non-minimum phase characteristics of aircraft longitudinal dynamics, the position deviation from the inertial reference is redefined such that the closed-loop system is minimum phase
