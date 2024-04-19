@@ -7,19 +7,17 @@ venue: "KAUST, EE372-Dynamic Programming and Optimal Control"
 date: 2021-05-03
 location: "Thuwal, Saudi Arabia"
 ---
-[![Watch the video](https://img.youtube.com/vi/jzHL5VHJmtA/sddefault.jpg)](https://youtu.be/jzHL5VHJmtA)
 
 This work aims to develop a nonlinear model predictive controller to achieve trajectory tracking for a quadrotor subject to input constraints.  
 
-
+[![Watch the video](https://img.youtube.com/vi/jzHL5VHJmtA/sddefault.jpg)](https://youtu.be/jzHL5VHJmtA)
 
 Advisor: [Dr. Meriem Laleg](https://scholar.google.com/citations?user=oyKikokAAAAJ&hl=en) <br />
 
 ## Motivation
 The objective is to find a control strategy that allows the states of a quadrotor to converge to an arbitrary set of time-varying reference states. Though it is possible to control a quadrotor using linear control techniques by linearizing the system around a trim point even if the quadrotor model is coupled and highly nonlinear, nonlinear control methods are preferred to obtain better performance. Multiple nonlinear methods such as sliding mode, backstepping, adaptive and feedback linearization have been demonstrated to be effective for quadrotor control.  
 
-However, none of these control methods take state and control constraints into account, we might face instability issues due to saturation and violation of feasible region. Hence, the nonlinear MPC is proposed to control the quadrotor and handle input constraints at the same time. Also, less effort for tuning is required in MPC structure, since we can simply put weights on states based on the degree of importance. The main drawback of MPC is the computation complexity, because the optimization problem need to be solved iteratively over a whole time period. Thanks to the development of technology, more powerful solvers are available to cope with MPC’s computation
-demand.
+However, none of these control methods take state and control constraints into account, we might face instability issues due to saturation and violation of feasible region. Hence, the nonlinear MPC is proposed to control the quadrotor and handle input constraints at the same time. Also, less effort for tuning is required in MPC structure, since we can simply put weights on states based on the degree of importance. The main drawback of MPC is the computation complexity, because the optimization problem need to be solved iteratively over a whole time period. Thanks to the development of technology, more powerful solvers are available to cope with MPC’s computation demand.
 
 ## Methodology
 In this study, a nonlinear MPC controller is developed to achieve trajectory tracking for a quadrotor subject to input constraints. The optimal control problem (OCP)
