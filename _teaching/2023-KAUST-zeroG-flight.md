@@ -1,6 +1,6 @@
 ---
 title: "Design of Longitudinal Control for Reduced-G Atmospheric Flight"
-collection: teaching
+collection: projects
 type: "Master Thesis Research"
 venue: "KAUST, RISC Lab, Department of Mechanical Engineering"
 date: 2023-01-19

@@ -1,6 +1,6 @@
 ---
 title: "Fault Tolerant Control of a quadrotor under actuator failures"
-collection: teaching
+collection: projects
 type: "Undergraduate Research"
 venue: "National Cheng Kung Univeristy (NCKU), Intelligent Embedded Control (IEC) Lab, Department of Aeronautics and Astronautics"
 date: 2018-01-15

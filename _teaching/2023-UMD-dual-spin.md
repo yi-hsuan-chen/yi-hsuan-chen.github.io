@@ -1,6 +1,6 @@
 ---
 title: "Dual-spin Stabilization of a satellite"
-collection: teaching
+collection: projects
 type: "Graduate Course Project"
 venue: "University of Maryland, ENAE646-Advanced Dynamics"
 date: 2023-01-10
