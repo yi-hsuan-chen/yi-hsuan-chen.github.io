@@ -31,7 +31,7 @@ Outside of research, I enjoy running, hiking, traveling, and playing with my dog
 <img src="images/doggy.jpg" width="180">
 <img src="images/travel.jpg" width="180">
 
-<br/><br/>
+<br/>
 
 Education
 ======
