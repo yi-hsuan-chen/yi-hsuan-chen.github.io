@@ -14,6 +14,9 @@ Advisor: [Dr. Derek Paley](https://scholar.google.com/citations?user=P9QqWAgAAAA
 ## Motivation
 According to the intermediate axis theorem aka tennis racket theorem, rotation of an object around its intermediate is **unstable**. This effect may cause the satellite flip around, thus resulting in undesirable behavior or even crash. In this project, we explore the concept of dual-spin stabilization, which builds on the stability analysis of torque-free rotation.
 
+<br /> ![](http://yi-hsuan-chen.github.io/files/int_axis_thm.gif) 
+
+
 ## Methodology
 Dual-spin stabilization is a method of stabilizing a spacecraft’s orientation in space by adding a rotor/flywheel inside of the spacecraft. Our goal is to achieve stable spinning of the spacecraft around an intermediate axis by introducing a flywheel spinning at the proper speed.
 
