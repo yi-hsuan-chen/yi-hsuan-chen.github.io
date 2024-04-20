@@ -15,10 +15,10 @@ redirect_from:
 Hi there! I am Yi-Hsuan Chen (陳誼軒), a PhD student in Aerospace Engineering at the University of Maryland, College Park, started in 2022 Fall. I am a member of the [Motion and Teaming (Mo-T) Laboratory](http://ottelab.com/) under [Dr. Michael Otte](https://scholar.google.com/citations?user=JbBpeE0AAAAJ&hl=en). My research focuses on integrating of control theory and motion planning algorithms, specifically aimed at enhancing **safe multi-agent path planning**. My research interests span **Dynamics and Control**, **Motion Planning**, **Flight Mechanics**, and **Optimization**, with applications in autonomous systems.
 
 <p align="center">
-<img src="images/astar_vs_dijkstra.gif" width="400">
-<img src="images/dstarlite.gif" width="200">
+<img src="images/astar_vs_dijkstra.gif" width="440">
+<img src="images/dstarlite.gif" width="220">
 <!-- <img src="images/double_pendulum.gif" width="180"> -->
-</p><br/>
+</p>
 
 Prior to my PhD, I received a Master's in Mechanical Engineering from King Abdullah University of Science and Technology, Saudi Arabia. Working with [Dr. Eric Feron](https://scholar.google.com/citations?hl=en&user=wKvaIJgAAAAJ&view_op=list_works&sortby=pubdate) in the [Robotics, Intelligent Systems, and
 Control (RISC) Laboratory](https://cemse.kaust.edu.sa/risclab), I developed a flight control algorithm for **parabolic flight** to achieve microgravity. I also completed a Bachelor's in Aeronautics and Astronautics from National Cheng Kung University, Taiwan, where I worked with [Dr. Chao-Chung Peng
