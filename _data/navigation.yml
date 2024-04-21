@@ -26,5 +26,7 @@ main:
     url: /cv/
     # url: /files/resume.pdf
     
+  - title: "Transcript"
+    url: /transcript/
   # - title: "Guide"
     # url: /markdown/
