@@ -8,8 +8,8 @@ location: "College Park, USA"
 ---
 
 This project aims to detect AprilTag positions and use a planner to generate the drone's trajectory. We use multiple AprilTags to provide waypoints for the drone, leveraging the tracking camera's video feed for detection. The Fast-Planner is used to plan a safe, kinodynamically feasible trajectory based on these waypoints. The flight tests were done with a Modal AI VOXL2 drone at UMD Brin Family Aerial Robotics Lab. 
-<p align="center">
-    <video width="560" autoplay loop muted src="http://yi-hsuan-chen.github.io/files/fast_planner_gazebosim.mp4">
+<p align="left">
+    <video width="800" autoplay loop muted src="http://yi-hsuan-chen.github.io/files/fast_planner_gazebosim.mp4">
     </video>
 </p>
 
