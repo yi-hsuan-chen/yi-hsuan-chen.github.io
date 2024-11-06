@@ -7,7 +7,7 @@ date: 2024-05-02
 location: "College Park, USA"
 ---
 
-This project aims to detect AprilTag positions and use a planner to generate the drone's trajectory. We use multiple AprilTags to provide waypoints for the drone, leveraging the tracking camera's video feed for detection. The Fast-Planner is used to plan a safe, kinodynamically feasible trajectory based on these waypoints. The flight tests were done with a Modal AI VOXL2 drone at UMD Brin Family Aerial Robotics Lab.
+This project aims to detect AprilTag positions and use a planner to generate the drone's trajectory. We use multiple AprilTags to provide waypoints for the drone, leveraging the tracking camera's video feed for detection. The Fast-Planner is used to plan a safe, kinodynamically feasible trajectory based on these waypoints. The flight tests were done with a Modal AI VOXL2 drone at UMD Brin Family Aerial Robotics Lab. <br /><br /> ![](http://yi-hsuan-chen.github.io/files/fast_planner_gazebosim.gif) 
 
 Advisor: [Dr. Joseph Conroy](http://www.avl.umd.edu/people/joseph-conroy.html)
 Team Members: [Piyush Goenka](https://github.com/piyush-g0enka), [Yi-Hsuan Chen](https://yi-hsuan-chen.github.io/)  
@@ -29,9 +29,11 @@ Team Members: [Piyush Goenka](https://github.com/piyush-g0enka), [Yi-Hsuan Chen]
 - Use kinodynamic path searching and B-spline optimization for trajectory generation
 - Transform coordinate frames between ENU (Fast-Planner) and NED (PX4)
 - Implement data transmission between ROS1 and ROS2 using custom Python scripts
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <img src="http://yi-hsuan-chen.github.io/files/simu_framework.png" width="400">
-    <img src="http://yi-hsuan-chen.github.io/files/fast_planner.png" width="400">
+<p align="center">
+    <img src="http://yi-hsuan-chen.github.io/files/simu_framework.png" width="510">
+</p>
+<p align="center">
+    <img src="http://yi-hsuan-chen.github.io/files/fast_planner.png" width="510">
 </p>
 
 ### Gazebo Simulation
@@ -42,11 +44,13 @@ Team Members: [Piyush Goenka](https://github.com/piyush-g0enka), [Yi-Hsuan Chen]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rnxRFLKCjiU?si=L8rS7KR2kMs02iPu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
-### Real Drone Implementation
+### Real Drone Attempt
 - Achieved basic waypoint following but faced challenges with:
   - Vehicle odometry accuracy
-  - Point cloud data quality
   - Data transmission delays through ROS1 bridge
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uLpx8BnWYbk?si=LrM_PZ_ePIflX1jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
 ## References
 \[1\] Boyu Zhou, Shaojie Shen, and Fei Gao. "A robust and efficient trajectory planner for quadrotors", 2020. [(link)](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)  
