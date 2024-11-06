@@ -9,17 +9,18 @@ author_profile: true
 
 <!-- Awards
 ====== -->
-**Gustave J. Hokenson Fellowship**, *2023*\
-• Awarded by the UMD Aerospace Engineering Department\
-**Honorary Member of Phi Tau Phi Scholastic Honor Society**, *2019*\
-• The highest honor given to the top 1% of graduates in university, based on excellent academic achievements as well as moral conduct\
-**Professor Li Ke-Rang Scholarship**, *2018*\
-• For university students who are the top five students in their department\
-**Academic Achievement Award**, *2015 – 2019*\
-• Top 10% in class each academic year
-• Received every academic year\
-**Distinguished Physics Contest Award**, *2016*\
-• Top 10% of all candidates
+**Government Scholarship to Study Abroad (GSSA)**, *2024-2026*\
+• Awarded prestigious and highly competitive research award from Taiwan Ministry of Education for Overseas Study (22 Engineering recipients nationwide).\
+**Gustave J. Hokenson Fellowship** (UMD), *2023*\
+• Distinguished fellowship nominated by Aerospace Engineering faculty for academic excellence.\
+**Honorary Member of Phi Tau Phi Scholastic Honor Society** (NCKU), *2019*\
+• Awarded university’s highest honor, granted to top 1% of graduates for outstanding academic merit and moral integrity.\
+**Professor Li Ke-Rang Scholarship** (NCKU), *2018*\
+• Selected among top five Aerospace Engineering students for academic excellence and research potential.\
+**Academic Achievement Award** (NCKU), *2015 – 2019*\
+• Consistently recognized for academic excellence, maintaining top 10% class ranking throughout four-year undergraduate studies.\
+**Distinguished Physics Contest Award** (NCKU), *2016*\
+• Achieved top 10% standing in competitive university-wide physics contest among peer candidates.
 
 <!-- Work experience
 ======
