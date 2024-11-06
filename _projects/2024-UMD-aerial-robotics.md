@@ -1,5 +1,5 @@
 ---
-title: "Fast-Planner Implementation, and Multiple AprilTags Detection and Navigation"
+title: "Fast-Planner ROS2 Implementation, and Multiple AprilTags Detection and Navigation"
 collection: projects
 type: "Graduate Course Project"
 venue: "University of Maryland, ENAE788M-Hands on Aerial Robotics"
@@ -7,7 +7,11 @@ date: 2024-05-02
 location: "College Park, USA"
 ---
 
-This project aims to detect AprilTag positions and use a planner to generate the drone's trajectory. We use multiple AprilTags to provide waypoints for the drone, leveraging the tracking camera's video feed for detection. The Fast-Planner is used to plan a safe, kinodynamically feasible trajectory based on these waypoints. The flight tests were done with a Modal AI VOXL2 drone at UMD Brin Family Aerial Robotics Lab. <br /><br /> ![](http://yi-hsuan-chen.github.io/files/fast_planner_gazebosim.gif) 
+This project aims to detect AprilTag positions and use a planner to generate the drone's trajectory. We use multiple AprilTags to provide waypoints for the drone, leveraging the tracking camera's video feed for detection. The Fast-Planner is used to plan a safe, kinodynamically feasible trajectory based on these waypoints. The flight tests were done with a Modal AI VOXL2 drone at UMD Brin Family Aerial Robotics Lab. 
+<p align="center">
+    <video width="560" autoplay loop muted src="http://yi-hsuan-chen.github.io/files/fast_planner_gazebosim.mp4">
+    </video>
+</p>
 
 Advisor: [Dr. Joseph Conroy](http://www.avl.umd.edu/people/joseph-conroy.html)
 Team Members: [Piyush Goenka](https://github.com/piyush-g0enka), [Yi-Hsuan Chen](https://yi-hsuan-chen.github.io/)  
@@ -30,10 +34,7 @@ Team Members: [Piyush Goenka](https://github.com/piyush-g0enka), [Yi-Hsuan Chen]
 - Transform coordinate frames between ENU (Fast-Planner) and NED (PX4)
 - Implement data transmission between ROS1 and ROS2 using custom Python scripts
 <p align="center">
-    <img src="http://yi-hsuan-chen.github.io/files/simu_framework.png" width="510">
-</p>
-<p align="center">
-    <img src="http://yi-hsuan-chen.github.io/files/fast_planner.png" width="510">
+    <img src="http://yi-hsuan-chen.github.io/files/simu_framework.png" width="560">
 </p>
 
 ### Gazebo Simulation
