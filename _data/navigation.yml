@@ -1,0 +1,30 @@
+# main links links
+main:
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Awards"
+    url: /award/
+    # url: /cv/    
+
+  # - title: "Courses"
+    # url: /courses/
+    # url: /teaching/    
+    
+  # - title: "Portfolio"
+    # url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    # url: /files/resume.pdf
+    
+  - title: "Transcript"
+    url: /transcript/
+  # - title: "Guide"
+    # url: /markdown/
